@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<JavaCallout continueOnError="false" enabled="true" name="JC-InteeliJ">
+    <DisplayName>JC-InteeliJ</DisplayName>
+    <Properties/>
+    <ClassName>demojavacallout.ApiJavacallout</ClassName>
+    <ResourceURL>java://demojavacallout-1.0-SNAPSHOT.jar</ResourceURL>
+</JavaCallout>
